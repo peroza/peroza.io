@@ -23,7 +23,7 @@ main:
     pdf: ./assets/files/shs_project_report.pdf
     lab: LEURE
     lab_link: https://www.epfl.ch/labs/leure/
-    # image: ./assets/img/integer-programming.png
+    image: ./assets/img/shs_project.png
     type: SHS Final Project
     bibtex: ./assets/files/bibtex/shs_project.bib
 
