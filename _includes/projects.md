@@ -1,3 +1,7 @@
+<head>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+
 <h2 id="projects" style="margin: 2px 0px -15px;">Projects</h2>
 
 <div class="publications">
@@ -9,7 +13,9 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100%;height=auto">
+    <div class="image-container">
+        <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width:100%;height:auto;">
+    </div>
     {% endif %}
     {% if link.type %} 
     <abbr class="badge">{{ link.type }}</abbr>
