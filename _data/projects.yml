@@ -1,0 +1,39 @@
+main:
+  - title: MyFoodRepo - Enhancing User Engagement in Dietary Tracking Apps through Personalised Interactions and Large Language Models
+    authors: <strong>Andrea Perozziello</strong>
+    pdf: ./assets/files/master_thesis_report.pdf
+    lab: DELAB
+    lab_link: https://www.digitalepidemiologylab.org/
+    image: ./assets/img/del-logo-hi-res.png
+    type: Master's Thesis
+    presentation: ./assets/files/master_thesis_presentation.pdf
+    bibtex: ./assets/files/bibtex/thesis.bib
+
+  - title: EcoLens – Raising awareness around food habits
+    authors: <strong>Andrea Perozziello</strong>
+    pdf: ./assets/files/semester_project_report.pdf
+    lab: DLAB
+    lab_link: https://www.epfl.ch/labs/disopt/
+    image: ./assets/img/dlab.png
+    type: Semester Project
+
+  - title: Impacts of cattle production on sustainability in Brazil and the possible solutions
+    authors: <strong>Andrea Perozziello, Baptiste de Christen, Samuele Kronauer, Lucas Lopes-Cendes</strong>
+    pdf: ./assets/files/shs_project_report.pdf
+    lab: LEURE
+    lab_link: https://www.epfl.ch/labs/leure/
+    # image: ./assets/img/integer-programming.png
+    type: SHS Final Project
+
+  - title: Visualising and Monitoring Ecosystems in a Mobile App
+    authors: <strong>Andrea Perozziello</strong>
+    pdf: ./assets/files/bachelor_thesis_report.pdf
+    lab: REVEAL
+    lab_link: https://reveal.si.usi.ch/
+    image: ./assets/img/REVEALogo.png
+    type: Bachelor Thesis Project
+    presentation: ./assets/files/bachelor_thesis_presentation.pdf
+
+
+
+    
