@@ -7,7 +7,7 @@ main:
     image: ./assets/img/del-logo-hi-res.png
     type: Master's Thesis
     presentation: ./assets/files/master_thesis_presentation.pdf
-    bibtex: ./assets/files/bibtex/thesis.bib
+    bibtex: ./assets/files/bibtex/master_thesis.bib
 
   - title: EcoLens – Raising awareness around food habits
     authors: <strong>Andrea Perozziello</strong>
@@ -15,7 +15,8 @@ main:
     lab: DLAB
     lab_link: https://www.epfl.ch/labs/disopt/
     image: ./assets/img/dlab.png
-    type: Semester Project
+    type: Master's Semester Project
+    bibtex: ./assets/files/bibtex/semester_project.bib
 
   - title: Impacts of cattle production on sustainability in Brazil and the possible solutions
     authors: <strong>Andrea Perozziello, Baptiste de Christen, Samuele Kronauer, Lucas Lopes-Cendes</strong>
@@ -24,6 +25,7 @@ main:
     lab_link: https://www.epfl.ch/labs/leure/
     # image: ./assets/img/integer-programming.png
     type: SHS Final Project
+    bibtex: ./assets/files/bibtex/shs_project.bib
 
   - title: Visualising and Monitoring Ecosystems in a Mobile App
     authors: <strong>Andrea Perozziello</strong>
