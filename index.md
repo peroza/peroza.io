@@ -24,8 +24,8 @@ I am passionate about leveraging technology to drive positive environmental chan
 
 ## News
 
-- **[Mar. 2024]** Started my thesis work with the Digital Epidemiology Lab, focusing on personalized nutrition through AI.
-- **[Jul. 2023]** Began a 7-month internship at eProd Solutions in Nairobi, Kenya, working on sustainable agricultural supply chain solutions.
+- **[Mar. 2024]** Started my thesis work with the [Digital Epidemiology Lab](https://www.digitalepidemiologylab.org/), supervised by [Marcel Salathe](https://people.epfl.ch/marcel.salathe?lang=en), focusing on personalized nutrition through AI.
+- **[Jul. 2023]** Began a 7-month internship at [eProd Solutions](https://www.eprod-solutions.com/) in Nairobi, Kenya, working on sustainable agricultural supply chain solutions.
 
 
 {% include_relative _includes/projects.md %}
