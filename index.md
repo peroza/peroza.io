@@ -18,6 +18,7 @@ I am passionate about leveraging technology to drive positive environmental chan
 
 ## News
 
+- **[Jun. 2025]** Started a new position as Research Fellow at the University of Bologna, working on behavioural and policy-oriented strategies to reduce food waste across agrifood systems in Albania, Egypt, and Tunisia.
 - **[Mar. 2025]** Presented my work on [EcoLens](https://zeroemission.group/ecolens/) at the [Sustainability Innovation Challenge](https://epfl-sic.ch/), connecting with a diverse European audience on topics of sustainable innovation.
 - **[Oct. 2024]** Participated in the [World Food Forum](https://www.world-food-forum.org/en) at FAO headquarters in Rome as part of the Swiss delegation, representing EPFL and engaging in discussions on food systems and sustainability.
 - **[Jul. 2024]** Defended my thesis at the [Digital Epidemiology Lab](https://www.digitalepidemiologylab.org/) at EPFL with my supervisor [Marcel Salathé](https://people.epfl.ch/marcel.salathe?lang=en) and [Jacques Fellay](https://people.epfl.ch/jacques.fellay?lang=en) as the external expert.
